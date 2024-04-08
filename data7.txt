@@ -1,0 +1,8 @@
+marathi
+gujrati
+punjabi
+rajasthani
+bihari
+bhojpuri
+madrasi
+bengali
